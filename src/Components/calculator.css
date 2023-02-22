@@ -1,0 +1,12 @@
+.calculator {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  width: 100%;
+}
+
+.calc-container {
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  width: 400px;
+}
