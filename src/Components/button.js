@@ -7,7 +7,7 @@ function Button({ Action }) {
       <button className="button" type="button" value="AC" onClick={(e) => Action(e)}>AC</button>
       <button className="button" type="button" value="+/-" onClick={(e) => Action(e)}>+/-</button>
       <button className="button" type="button" value="%" onClick={(e) => Action(e)}>%</button>
-      <button className="button" type="button" value="/" onClick={(e) => Action(e)}>/</button>
+      <button className="button" type="button" value="÷" onClick={(e) => Action(e)}>÷</button>
       <button className="button" type="button" value="7" onClick={(e) => Action(e)}>7</button>
       <button className="button" type="button" value="8" onClick={(e) => Action(e)}>8</button>
       <button className="button" type="button" value="9" onClick={(e) => Action(e)}>9</button>
