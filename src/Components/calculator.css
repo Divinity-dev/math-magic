@@ -7,6 +7,7 @@
 .calc-container {
   width: 400px;
 }
+
 .cal-class {
   display: flex;
   justify-content: space-between;
