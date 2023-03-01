@@ -5,8 +5,11 @@
 }
 
 .calc-container {
-  position: absolute;
-  top: 30%;
-  left: 30%;
   width: 400px;
+}
+
+.cal-class {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 300px;
 }

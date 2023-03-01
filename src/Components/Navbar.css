@@ -1,0 +1,29 @@
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+li {
+  list-style: none;
+  margin-left: 10px;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: aqua;
+  cursor: pointer;
+}

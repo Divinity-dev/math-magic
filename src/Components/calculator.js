@@ -12,13 +12,16 @@ function Calculator() {
     setText(newText);
   };
   return (
-    <div className="calc-container">
-      <Input
-        total={total}
-        next={next}
-        operation={operation}
-      />
-      <Button Action={onClickHandler} />
+    <div className="cal-class">
+      <h2>Lets do some maths</h2>
+      <div className="calc-container">
+        <Input
+          total={total}
+          next={next}
+          operation={operation}
+        />
+        <Button Action={onClickHandler} />
+      </div>
     </div>
   );
 }
