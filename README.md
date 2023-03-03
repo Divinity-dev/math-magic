@@ -109,7 +109,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](To be added later)
+- [Live Demo Link](https://math-magic-nf7p.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
