@@ -1,0 +1,15 @@
+.calculator {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  width: 100%;
+}
+
+.calc-container {
+  width: 400px;
+}
+
+.cal-class {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 300px;
+}
